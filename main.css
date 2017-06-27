@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+
+
+html, body {
+  text-align: center;
+  font-weight: 400;
+
+}
+
+body
+{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.mainsection{
+	padding: 100px;
+}
+
+
+.title {
+	font-size: 100px;
+}
